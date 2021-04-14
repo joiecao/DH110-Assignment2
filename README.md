@@ -1,6 +1,12 @@
-# Making PC Building More Beginner Friendly 
-## Assignment02: Pilot Usability Test
+# Assignment02: Pilot Usability Test
 ### DH110, Joie Cao
 
-### Introduction
+## Introduction
 
+## Method
+
+## Survey Link
+
+## Video Link
+
+## Reflection
